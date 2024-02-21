@@ -64,10 +64,8 @@
 	display:block;
 	color:transparent;
 }
-.mbr-wowslider-container--angular .mbr-wowslider img, iframe{
+.mbr-wowslider-container--angular .mbr-wowslider img{
 	max-width: none !important;
-	width: auto;
-	display: initial;
 }
 .mbr-wowslider-container--angular .mbr-wowslider .ws_images .ws_list img,
 .mbr-wowslider-container--angular .mbr-wowslider .ws_images > div > img{
